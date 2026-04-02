@@ -1,0 +1,1547 @@
+{
+  "Debug_Assert": {
+    "string_addr": "0x004D7B20",
+    "func_addr": "0x002A0678",
+    "ref_addr": "0x004D9AF8"
+  },
+  "Debug_Break": {
+    "string_addr": "0x004D7B30",
+    "func_addr": "0x002A0678",
+    "ref_addr": "0x004D9B00"
+  },
+  "Debug_EnableCallStack": {
+    "string_addr": "0x004D7B40",
+    "func_addr": "0x002F6F10",
+    "ref_addr": "0x004D9B08"
+  },
+  "Debug_EnableDebugMenu": {
+    "string_addr": "0x004D7B58",
+    "func_addr": "0x002F7000",
+    "ref_addr": "0x004D9B10"
+  },
+  "Debug_EnableLocationRendering": {
+    "string_addr": "0x004D7B70",
+    "func_addr": "0x002F7078",
+    "ref_addr": "0x004D9B18"
+  },
+  "Debug_Printf": {
+    "string_addr": "0x004D7B90",
+    "func_addr": "0x002F7098",
+    "ref_addr": "0x004D9B20"
+  },
+  "Debug_PrintEventDiagnostics": {
+    "string_addr": "0x004D7BA0",
+    "func_addr": "0x002F70B8",
+    "ref_addr": "0x004D9B28"
+  },
+  "Debug_PrintMemoryStatistics": {
+    "string_addr": "0x004D7BC0",
+    "func_addr": "0x002F70F8",
+    "ref_addr": "0x004D9B30"
+  },
+  "Ui_PrintHudMessage": {
+    "string_addr": "0x004D7BE0",
+    "func_addr": "0x002F7160",
+    "ref_addr": "0x004D9B38"
+  },
+  "Ui_PrintHudMessageById": {
+    "string_addr": "0x004D7BF8",
+    "func_addr": "0x002A7B60",
+    "ref_addr": "0x004D9B40"
+  },
+  "Ui_DisplayLeftVideoPortrait": {
+    "string_addr": "0x004D7C10",
+    "func_addr": "0x002A7CA8",
+    "ref_addr": "0x004D9B48"
+  },
+  "Ui_DisplayRightVideoPortrait": {
+    "string_addr": "0x004D7C30",
+    "func_addr": "0x002A8450",
+    "ref_addr": "0x004D9B50"
+  },
+  "Ui_EnableHud": {
+    "string_addr": "0x004D7C50",
+    "func_addr": "0x002A8630",
+    "ref_addr": "0x004D9B58"
+  },
+  "Ui_EnableFlagMode": {
+    "string_addr": "0x004D7C60",
+    "func_addr": "0x002F73E8",
+    "ref_addr": "0x004D9B60"
+  },
+  "Ui_SetFactionMoodVisible": {
+    "string_addr": "0x004D7C78",
+    "func_addr": "0x002A8810",
+    "ref_addr": "0x004D9B68"
+  },
+  "Ui_AddDisplayMarkerActor": {
+    "string_addr": "0x004D7C98",
+    "func_addr": "0x002A8930",
+    "ref_addr": "0x004D9B70"
+  },
+  "Ui_RemoveDisplayMarkerActor": {
+    "string_addr": "0x004D7CB8",
+    "func_addr": "0x002A7E18",
+    "ref_addr": "0x004D9B78"
+  },
+  "Ui_AddChallengeMarkerActor": {
+    "string_addr": "0x004D7CD8",
+    "func_addr": "0x002A7FE0",
+    "ref_addr": "0x004D9B80"
+  },
+  "Ui_RemoveChallengeMarkerActor": {
+    "string_addr": "0x004D7CF8",
+    "func_addr": "0x002A8108",
+    "ref_addr": "0x004D9B88"
+  },
+  "Ui_ObjectiveTrayPrint": {
+    "string_addr": "0x004D7D18",
+    "func_addr": "0x002A8328",
+    "ref_addr": "0x004D9B90"
+  },
+  "Ui_TutorialTrayPrint": {
+    "string_addr": "0x004D7D30",
+    "func_addr": "0x002A73A0",
+    "ref_addr": "0x004D9B98"
+  },
+  "Ui_MessageBoxPrint": {
+    "string_addr": "0x004D7D48",
+    "func_addr": "0x002A75F8",
+    "ref_addr": "0x004D9BA0"
+  },
+  "Ui_MessageBoxClear": {
+    "string_addr": "0x004D7D60",
+    "func_addr": "0x002A7888",
+    "ref_addr": "0x004D9BA8"
+  },
+  "Ui_DisplayDateline": {
+    "string_addr": "0x004D7D78",
+    "func_addr": "0x002A7A38",
+    "ref_addr": "0x004D9BB0"
+  },
+  "ActorVehicle_EnableRotorEffects": {
+    "string_addr": "0x004D7D90",
+    "func_addr": "0x002A7740",
+    "ref_addr": "0x004D9BB8"
+  },
+  "ActorVehicle_GetNumPassengers": {
+    "string_addr": "0x004D7DB0",
+    "func_addr": "0x002AFBF8",
+    "ref_addr": "0x004D9BC0"
+  },
+  "ActorVehicle_GetSeatInfo": {
+    "string_addr": "0x004D7DD0",
+    "func_addr": "0x002AFDB0",
+    "ref_addr": "0x004D9BC8"
+  },
+  "ActorVehicle_GetWinchedActor": {
+    "string_addr": "0x004D7DF0",
+    "func_addr": "0x002B0068",
+    "ref_addr": "0x004D9BD0"
+  },
+  "ActorVehicle_IsExtractionHelicopter": {
+    "string_addr": "0x004D7E10",
+    "func_addr": "0x002B0290",
+    "ref_addr": "0x004D9BD8"
+  },
+  "ActorVehicle_KickoutPassenger": {
+    "string_addr": "0x004D7E38",
+    "func_addr": "0x002B0428",
+    "ref_addr": "0x004D9BE0"
+  },
+  "ActorVehicle_KickOutAllPassengers": {
+    "string_addr": "0x004D7E58",
+    "func_addr": "0x002B0590",
+    "ref_addr": "0x004D9BE8"
+  },
+  "ActorVehicle_ReceiveRider": {
+    "string_addr": "0x004D7E80",
+    "func_addr": "0x002B0778",
+    "ref_addr": "0x004D9BF0"
+  },
+  "ActorVehicle_Lock": {
+    "string_addr": "0x004D7EA0",
+    "func_addr": "0x002B08F0",
+    "ref_addr": "0x004D9BF8"
+  },
+  "ActorVehicle_GetRiderList": {
+    "string_addr": "0x004D7EB8",
+    "func_addr": "0x002B0BD0",
+    "ref_addr": "0x004D9C00"
+  },
+  "ActorVehicle_SpawnCargo": {
+    "string_addr": "0x004D7ED8",
+    "func_addr": "0x002B0EA8",
+    "ref_addr": "0x004D9C08"
+  },
+  "ActorVehicle_TakeFriendlyFire": {
+    "string_addr": "0x004D7EF0",
+    "func_addr": "0x002B1608",
+    "ref_addr": "0x004D9C10"
+  },
+  "Ai_Deliver": {
+    "string_addr": "0x004D7F10",
+    "func_addr": "0x002B1828",
+    "ref_addr": "0x004D9C18"
+  },
+  "Ai_IsPassenger": {
+    "string_addr": "0x004D7F20",
+    "func_addr": "0x002B19B0",
+    "ref_addr": "0x004D9C20"
+  },
+  "Ai_Land": {
+    "string_addr": "0x004D7F30",
+    "func_addr": "0x002B1C80",
+    "ref_addr": "0x004D9C28"
+  },
+  "Ai_MoveToPositionAndHeading": {
+    "string_addr": "0x004D7F38",
+    "func_addr": "0x002B1DD0",
+    "ref_addr": "0x004D9C30"
+  },
+  "Ai_PlaceOnClosestTerrain": {
+    "string_addr": "0x004D7F58",
+    "func_addr": "0x002B1F30",
+    "ref_addr": "0x004D9C38"
+  },
+  "Ai_Takeoff": {
+    "string_addr": "0x004D7F78",
+    "func_addr": "0x002B22E8",
+    "ref_addr": "0x004D9C40"
+  },
+  "Ai_SetFaction": {
+    "string_addr": "0x004D7F88",
+    "func_addr": "0x002B2188",
+    "ref_addr": "0x004D9C48"
+  },
+  "Ai_GetFaction": {
+    "string_addr": "0x004D7F98",
+    "func_addr": "0x002B2590",
+    "ref_addr": "0x004D9C50"
+  },
+  "Ai_SetHostileRange": {
+    "string_addr": "0x004D7FA8",
+    "func_addr": "0x002B2800",
+    "ref_addr": "0x004D9C58"
+  },
+  "Ai_SetIsHostage": {
+    "string_addr": "0x004D7FC0",
+    "func_addr": "0x002B2948",
+    "ref_addr": "0x004D9C60"
+  },
+  "Ai_SetIsAwaitingExtraction": {
+    "string_addr": "0x004D7FD0",
+    "func_addr": "0x002B2AC0",
+    "ref_addr": "0x004D9C68"
+  },
+  "Ai_SetSquad": {
+    "string_addr": "0x004D7FF0",
+    "func_addr": "0x002B2CE8",
+    "ref_addr": "0x004D9C70"
+  },
+  "Ai_AddEnemy": {
+    "string_addr": "0x004D8000",
+    "func_addr": "0x002B2F00",
+    "ref_addr": "0x004D9C78"
+  },
+  "Ai_Anchor": {
+    "string_addr": "0x004D8010",
+    "func_addr": "0x002B3010",
+    "ref_addr": "0x004D9C80"
+  },
+  "Ai_Unanchor": {
+    "string_addr": "0x004D8020",
+    "func_addr": "0x002B3168",
+    "ref_addr": "0x004D9C88"
+  },
+  "Ai_EnableHornResponse": {
+    "string_addr": "0x004D8030",
+    "func_addr": "0x002F74D0",
+    "ref_addr": "0x004D9C90"
+  },
+  "Ai_SetFactionFavor": {
+    "string_addr": "0x004D8048",
+    "func_addr": "0x002F7520",
+    "ref_addr": "0x004D9C98"
+  },
+  "Ai_Command": {
+    "string_addr": "0x004D8060",
+    "func_addr": "0x002B3298",
+    "ref_addr": "0x004D9CA0"
+  },
+  "Ai_CommandQueue": {
+    "string_addr": "0x004D8070",
+    "func_addr": "0x002B3448",
+    "ref_addr": "0x004D9CA8"
+  },
+  "Ai_CommandDefault": {
+    "string_addr": "0x004D8080",
+    "func_addr": "0x002B3598",
+    "ref_addr": "0x004D9CB0"
+  },
+  "Ai_CommandClear": {
+    "string_addr": "0x004D8098",
+    "func_addr": "0x002B36E8",
+    "ref_addr": "0x004D9CB8"
+  },
+  "Ai_CommandClearAll": {
+    "string_addr": "0x004D80A8",
+    "func_addr": "0x002B3838",
+    "ref_addr": "0x004D9CC0"
+  },
+  "Ai_CommandStatus": {
+    "string_addr": "0x004D80C0",
+    "func_addr": "0x002B39B0",
+    "ref_addr": "0x004D9CC8"
+  },
+  "Squad_Command": {
+    "string_addr": "0x004D80D8",
+    "func_addr": "0x002B3AE0",
+    "ref_addr": "0x004D9CD0"
+  },
+  "Squad_CommandQueue": {
+    "string_addr": "0x004D80E8",
+    "func_addr": "0x002F75B8",
+    "ref_addr": "0x004D9CD8"
+  },
+  "Squad_CommandDefault": {
+    "string_addr": "0x004D8100",
+    "func_addr": "0x002F76B8",
+    "ref_addr": "0x004D9CE0"
+  },
+  "Squad_SetHostileRange": {
+    "string_addr": "0x004D8118",
+    "func_addr": "0x002F77B8",
+    "ref_addr": "0x004D9CE8"
+  },
+  "Squad_AssignCombatNodes": {
+    "string_addr": "0x004D8130",
+    "func_addr": "0x002B56C8",
+    "ref_addr": "0x004D9CF0"
+  },
+  "Squad_GetAllActors": {
+    "string_addr": "0x004D8148",
+    "func_addr": "0x002B5938",
+    "ref_addr": "0x004D9CF8"
+  },
+  "Squad_ReportStatus": {
+    "string_addr": "0x004D8160",
+    "func_addr": "0x002B5B98",
+    "ref_addr": "0x004D9D00"
+  },
+  "Encounter_ReportStatus": {
+    "string_addr": "0x004D8178",
+    "func_addr": "0x002B5DD8",
+    "ref_addr": "0x004D9D08"
+  },
+  "Faction_GetAttitude": {
+    "string_addr": "0x004D8190",
+    "func_addr": "0x002B5FB8",
+    "ref_addr": "0x004D9D10"
+  },
+  "Faction_GetRelation": {
+    "string_addr": "0x004D81A8",
+    "func_addr": "0x002B6148",
+    "ref_addr": "0x004D9D18"
+  },
+  "Faction_SetRelation": {
+    "string_addr": "0x004D81C0",
+    "func_addr": "0x002B6570",
+    "ref_addr": "0x004D9D20"
+  },
+  "Faction_ModifyRelation": {
+    "string_addr": "0x004D81D8",
+    "func_addr": "0x002B6908",
+    "ref_addr": "0x004D9D28"
+  },
+  "Faction_SetMinimumRelation": {
+    "string_addr": "0x004D81F0",
+    "func_addr": "0x002B6D38",
+    "ref_addr": "0x004D9D30"
+  },
+  "Camera_SetDemoDiskSettings": {
+    "string_addr": "0x004D8210",
+    "func_addr": "0x002B7180",
+    "ref_addr": "0x004D9D38"
+  },
+  "Camera_SetMode": {
+    "string_addr": "0x004D8230",
+    "func_addr": "0x002A5E98",
+    "ref_addr": "0x004D9D40"
+  },
+  "Camera_SetPosition": {
+    "string_addr": "0x004D8240",
+    "func_addr": "0x002A5FD8",
+    "ref_addr": "0x004D9D48"
+  },
+  "Camera_SetInterestPosition": {
+    "string_addr": "0x004D8258",
+    "func_addr": "0x002A5748",
+    "ref_addr": "0x004D9D50"
+  },
+  "Camera_SetInterestActor": {
+    "string_addr": "0x004D8278",
+    "func_addr": "0x002A5928",
+    "ref_addr": "0x004D9D58"
+  },
+  "Camera_MoveToPosition": {
+    "string_addr": "0x004D8290",
+    "func_addr": "0x002A5B08",
+    "ref_addr": "0x004D9D60"
+  },
+  "Camera_SetOrbit": {
+    "string_addr": "0x004D82A8",
+    "func_addr": "0x002A5C70",
+    "ref_addr": "0x004D9D68"
+  },
+  "Camera_SetPan": {
+    "string_addr": "0x004D82B8",
+    "func_addr": "0x002A5340",
+    "ref_addr": "0x004D9D70"
+  },
+  "Camera_AttachToActor": {
+    "string_addr": "0x004D82C8",
+    "func_addr": "0x002A5590",
+    "ref_addr": "0x004D9D78"
+  },
+  "Camera_DetachFromActor": {
+    "string_addr": "0x004D82E0",
+    "func_addr": "0x002A6370",
+    "ref_addr": "0x004D9D80"
+  },
+  "Camera_SetZoom": {
+    "string_addr": "0x004D82F8",
+    "func_addr": "0x002A6518",
+    "ref_addr": "0x004D9D88"
+  },
+  "Camera_SetTurbulenceEnabled": {
+    "string_addr": "0x004D8308",
+    "func_addr": "0x002A6620",
+    "ref_addr": "0x004D9D90"
+  },
+  "Camera_SetNearPlaneDistance": {
+    "string_addr": "0x004D8328",
+    "func_addr": "0x002A67A8",
+    "ref_addr": "0x004D9D98"
+  },
+  "Camera_SetMatrixFromActor": {
+    "string_addr": "0x004D8348",
+    "func_addr": "0x002A68C8",
+    "ref_addr": "0x004D9DA0"
+  },
+  "Camera_Shake": {
+    "string_addr": "0x004D8368",
+    "func_addr": "0x002A69F0",
+    "ref_addr": "0x004D9DA8"
+  },
+  "Camera_ScriptPlayAnimation": {
+    "string_addr": "0x004D8378",
+    "func_addr": "0x002A6B40",
+    "ref_addr": "0x004D9DB0"
+  },
+  "Camera_ScriptDriveActor": {
+    "string_addr": "0x004D8398",
+    "func_addr": "0x002A6DB8",
+    "ref_addr": "0x004D9DB8"
+  },
+  "Camera_StopScriptDriveActor": {
+    "string_addr": "0x004D83B0",
+    "func_addr": "0x002A6F68",
+    "ref_addr": "0x004D9DC0"
+  },
+  "Camera_Reset": {
+    "string_addr": "0x004D83D0",
+    "func_addr": "0x002A7118",
+    "ref_addr": "0x004D9DC8"
+  },
+  "Video_TVEffect": {
+    "string_addr": "0x004D83E0",
+    "func_addr": "0x002A7280",
+    "ref_addr": "0x004D9DD0"
+  },
+  "Video_LetterboxEffect": {
+    "string_addr": "0x004D83F0",
+    "func_addr": "0x002A4848",
+    "ref_addr": "0x004D9DD8"
+  },
+  "Effect_CeilingDust": {
+    "string_addr": "0x004D8408",
+    "func_addr": "0x002A4958",
+    "ref_addr": "0x004D9DE0"
+  },
+  "Effect_Explosion": {
+    "string_addr": "0x004D8420",
+    "func_addr": "0x002A4A68",
+    "ref_addr": "0x004D9DE8"
+  },
+  "Effect_SetCloudFlightEffect": {
+    "string_addr": "0x004D8438",
+    "func_addr": "0x002A4C88",
+    "ref_addr": "0x004D9DF0"
+  },
+  "Effect_SetRushingAirEffect": {
+    "string_addr": "0x004D8458",
+    "func_addr": "0x002A5168",
+    "ref_addr": "0x004D9DF8"
+  },
+  "Mission_EnableAtmosphere": {
+    "string_addr": "0x004D8478",
+    "func_addr": "0x002A4F90",
+    "ref_addr": "0x004D9E00"
+  },
+  "Mission_EnableGlobalGpsJammer": {
+    "string_addr": "0x004D8498",
+    "func_addr": "0x002A0828",
+    "ref_addr": "0x004D9E08"
+  },
+  "Mission_GetTime": {
+    "string_addr": "0x004D84B8",
+    "func_addr": "0x002A09B0",
+    "ref_addr": "0x004D9E10"
+  },
+  "Mission_PlayerRespawn": {
+    "string_addr": "0x004D84C8",
+    "func_addr": "0x002A0AD0",
+    "ref_addr": "0x004D9E18"
+  },
+  "Mission_Spawn": {
+    "string_addr": "0x004D84E0",
+    "func_addr": "0x002A0C10",
+    "ref_addr": "0x004D9E20"
+  },
+  "Mission_SpawnAirplaneFlyby": {
+    "string_addr": "0x004D84F0",
+    "func_addr": "0x002A2C68",
+    "ref_addr": "0x004D9E28"
+  },
+  "Mission_SpawnAirstrike": {
+    "string_addr": "0x004D8510",
+    "func_addr": "0x002A3328",
+    "ref_addr": "0x004D9E30"
+  },
+  "Mission_SetupPlayerRespawn": {
+    "string_addr": "0x004D8528",
+    "func_addr": "0x002A2F80",
+    "ref_addr": "0x004D9E38"
+  },
+  "Datapod_Activate": {
+    "string_addr": "0x004D8548",
+    "func_addr": "0x002A3738",
+    "ref_addr": "0x004D9E40"
+  },
+  "Mail_Post": {
+    "string_addr": "0x004D8560",
+    "func_addr": "0x002F71E8",
+    "ref_addr": "0x004D9E48"
+  },
+  "Mail_Delete": {
+    "string_addr": "0x004D8570",
+    "func_addr": "0x002A0F90",
+    "ref_addr": "0x004D9E50"
+  },
+  "Support_AddItem": {
+    "string_addr": "0x004D8580",
+    "func_addr": "0x002A10E0",
+    "ref_addr": "0x004D9E58"
+  },
+  "Support_RemoveItem": {
+    "string_addr": "0x004D8590",
+    "func_addr": "0x002A1230",
+    "ref_addr": "0x004D9E60"
+  },
+  "Support_ResetToDefault": {
+    "string_addr": "0x004D85A8",
+    "func_addr": "0x002A13E8",
+    "ref_addr": "0x004D9E68"
+  },
+  "Traffic_SetPathEnabled": {
+    "string_addr": "0x004D85C0",
+    "func_addr": "0x002F72E8",
+    "ref_addr": "0x004D9E70"
+  },
+  "Traffic_SetZoneEnabled": {
+    "string_addr": "0x004D85D8",
+    "func_addr": "0x002A1518",
+    "ref_addr": "0x004D9E78"
+  },
+  "Traffic_ResetZoneSpawners": {
+    "string_addr": "0x004D85F0",
+    "func_addr": "0x002A1680",
+    "ref_addr": "0x004D9E80"
+  },
+  "Traffic_AddZoneSpawner": {
+    "string_addr": "0x004D8610",
+    "func_addr": "0x002A17E8",
+    "ref_addr": "0x004D9E88"
+  },
+  "Traffic_SetZoneDensity": {
+    "string_addr": "0x004D8628",
+    "func_addr": "0x002A1938",
+    "ref_addr": "0x004D9E90"
+  },
+  "Traffic_SetZoneCivDensity": {
+    "string_addr": "0x004D8640",
+    "func_addr": "0x002A1B40",
+    "ref_addr": "0x004D9E98"
+  },
+  "Traffic_AddZoneCivSpawner": {
+    "string_addr": "0x004D8660",
+    "func_addr": "0x002A1CD0",
+    "ref_addr": "0x004D9EA0"
+  },
+  "Traffic_ResetZoneCivSpawners": {
+    "string_addr": "0x004D8680",
+    "func_addr": "0x002A1E60",
+    "ref_addr": "0x004D9EA8"
+  },
+  "Traffic_SetZoneUrgency": {
+    "string_addr": "0x004D86A0",
+    "func_addr": "0x002A1FF0",
+    "ref_addr": "0x004D9EB0"
+  },
+  "Traffic_SetZoneSpawnerCap": {
+    "string_addr": "0x004D86B8",
+    "func_addr": "0x002A2140",
+    "ref_addr": "0x004D9EB8"
+  },
+  "Traffic_SetZoneCoolDownTimer": {
+    "string_addr": "0x004D86D8",
+    "func_addr": "0x002A2468",
+    "ref_addr": "0x004D9EC0"
+  },
+  "Traffic_SetZoneEncounter": {
+    "string_addr": "0x004D86F8",
+    "func_addr": "0x002A22D8",
+    "ref_addr": "0x004D9EC8"
+  },
+  "Traffic_SetZoneSquad": {
+    "string_addr": "0x004D8718",
+    "func_addr": "0x002A2658",
+    "ref_addr": "0x004D9ED0"
+  },
+  "Traffic_SaveZone": {
+    "string_addr": "0x004D8730",
+    "func_addr": "0x002A27E8",
+    "ref_addr": "0x004D9ED8"
+  },
+  "Traffic_RestoreZone": {
+    "string_addr": "0x004D8748",
+    "func_addr": "0x002A2978",
+    "ref_addr": "0x004D9EE0"
+  },
+  "Shop_UnlockItem": {
+    "string_addr": "0x004D8760",
+    "func_addr": "0x002A2AD8",
+    "ref_addr": "0x004D9EE8"
+  },
+  "Shop_SetShopLocked": {
+    "string_addr": "0x004D8770",
+    "func_addr": "0x002A0D20",
+    "ref_addr": "0x004D9EF0"
+  },
+  "Objective_SetShortDescription": {
+    "string_addr": "0x004D8788",
+    "func_addr": "0x002A0E70",
+    "ref_addr": "0x004D9EF8"
+  },
+  "Objective_SetLongDescription": {
+    "string_addr": "0x004D87A8",
+    "func_addr": "0x002A3888",
+    "ref_addr": "0x004D9F00"
+  },
+  "Objective_SetType": {
+    "string_addr": "0x004D87C8",
+    "func_addr": "0x002A3A00",
+    "ref_addr": "0x004D9F08"
+  },
+  "Objective_SetNagText": {
+    "string_addr": "0x004D87E0",
+    "func_addr": "0x002A3B78",
+    "ref_addr": "0x004D9F10"
+  },
+  "Objective_SetTargetActor": {
+    "string_addr": "0x004D87F8",
+    "func_addr": "0x002A3D28",
+    "ref_addr": "0x004D9F18"
+  },
+  "Objective_SetTargetVector": {
+    "string_addr": "0x004D8818",
+    "func_addr": "0x002A3EE0",
+    "ref_addr": "0x004D9F20"
+  },
+  "Objective_RemoveTarget": {
+    "string_addr": "0x004D8838",
+    "func_addr": "0x002A4230",
+    "ref_addr": "0x004D9F28"
+  },
+  "Objective_Remove": {
+    "string_addr": "0x004D8850",
+    "func_addr": "0x002A4598",
+    "ref_addr": "0x004D9F30"
+  },
+  "Audio_PlayVoiceover": {
+    "string_addr": "0x004D8868",
+    "func_addr": "0x002A4710",
+    "ref_addr": "0x004D9F38"
+  },
+  "Audio_PlayVoiceoverCB": {
+    "string_addr": "0x004D8880",
+    "func_addr": "0x002B7450",
+    "ref_addr": "0x004D9F40"
+  },
+  "Audio_StopAllVoiceover": {
+    "string_addr": "0x004D8898",
+    "func_addr": "0x002B79B8",
+    "ref_addr": "0x004D9F48"
+  },
+  "Audio_StopSound": {
+    "string_addr": "0x004D88B0",
+    "func_addr": "0x002B80B0",
+    "ref_addr": "0x004D9F50"
+  },
+  "Audio_SoundIsPlaying": {
+    "string_addr": "0x004D88C0",
+    "func_addr": "0x002B8258",
+    "ref_addr": "0x004D9F58"
+  },
+  "Audio_PlayMusic": {
+    "string_addr": "0x004D88D8",
+    "func_addr": "0x002B83A0",
+    "ref_addr": "0x004D9F60"
+  },
+  "Audio_PlayFactionMusic": {
+    "string_addr": "0x004D88E8",
+    "func_addr": "0x002B84F0",
+    "ref_addr": "0x004D9F68"
+  },
+  "Audio_StopMusic": {
+    "string_addr": "0x004D8900",
+    "func_addr": "0x002B8640",
+    "ref_addr": "0x004D9F70"
+  },
+  "Audio_AddStreamPreloadRegion": {
+    "string_addr": "0x004D8910",
+    "func_addr": "0x002F78C0",
+    "ref_addr": "0x004D9F78"
+  },
+  "Audio_RemoveStreamPreloadRegion": {
+    "string_addr": "0x004D8930",
+    "func_addr": "0x002B8790",
+    "ref_addr": "0x004D9F80"
+  },
+  "Audio_RemoveAllStreamPreloadRegions": {
+    "string_addr": "0x004D8950",
+    "func_addr": "0x002B8A88",
+    "ref_addr": "0x004D9F88"
+  },
+  "Audio_SetAmbientCombatLevel": {
+    "string_addr": "0x004D8978",
+    "func_addr": "0x002F79B8",
+    "ref_addr": "0x004D9F90"
+  },
+  "Audio_SetCinematicDuckQuiet": {
+    "string_addr": "0x004D8998",
+    "func_addr": "0x002B8BC8",
+    "ref_addr": "0x004D9F98"
+  },
+  "Audio_SubmitChatterEvent": {
+    "string_addr": "0x004D89B8",
+    "func_addr": "0x002B8D00",
+    "ref_addr": "0x004D9FA0"
+  },
+  "Audio_PlaySound": {
+    "string_addr": "0x004D89D8",
+    "func_addr": "0x002B8E58",
+    "ref_addr": "0x004D9FA8"
+  },
+  "Audio_SetJournalistPropogandaEvent": {
+    "string_addr": "0x004D89E8",
+    "func_addr": "0x002B9018",
+    "ref_addr": "0x004D9FB0"
+  },
+  "Audio_IsFionaDialogPlaying": {
+    "string_addr": "0x004D8A10",
+    "func_addr": "0x002B9208",
+    "ref_addr": "0x004D9FB8"
+  },
+  "Event_ActorHitPointsLessThan": {
+    "string_addr": "0x004D8A30",
+    "func_addr": "0x002B9350",
+    "ref_addr": "0x004D9FC0"
+  },
+  "Event_ActorInBoundary": {
+    "string_addr": "0x004D8A50",
+    "func_addr": "0x002B9478",
+    "ref_addr": "0x004D9FC8"
+  },
+  "Event_ActorInFiremansCarry": {
+    "string_addr": "0x004D8A68",
+    "func_addr": "0x002B9DF0",
+    "ref_addr": "0x004D9FD0"
+  },
+  "Event_ActorIsAirborne": {
+    "string_addr": "0x004D8A88",
+    "func_addr": "0x002BA0B8",
+    "ref_addr": "0x004D9FD8"
+  },
+  "Event_ActorIsHostileToward": {
+    "string_addr": "0x004D8AA0",
+    "func_addr": "0x002B9700",
+    "ref_addr": "0x004D9FE0"
+  },
+  "Event_ActorInFocus": {
+    "string_addr": "0x004D8AC0",
+    "func_addr": "0x002B9948",
+    "ref_addr": "0x004D9FE8"
+  },
+  "Event_ActorIsSubdued": {
+    "string_addr": "0x004D8AD8",
+    "func_addr": "0x002B9BD0",
+    "ref_addr": "0x004D9FF0"
+  },
+  "Event_ActorIsDormant": {
+    "string_addr": "0x004D8AF0",
+    "func_addr": "0x002BA300",
+    "ref_addr": "0x004D9FF8"
+  },
+  "Event_ActorIsWinchingSomething": {
+    "string_addr": "0x004D8B08",
+    "func_addr": "0x002BA520",
+    "ref_addr": "0x004DA000"
+  },
+  "Event_ActorSold": {
+    "string_addr": "0x004D8B28",
+    "func_addr": "0x002BA768",
+    "ref_addr": "0x004DA008"
+  },
+  "Event_ActorSpottedTrespassing": {
+    "string_addr": "0x004D8B38",
+    "func_addr": "0x002BA9C0",
+    "ref_addr": "0x004DA010"
+  },
+  "Event_ActorToVectorProximity": {
+    "string_addr": "0x004D8B58",
+    "func_addr": "0x002BABE0",
+    "ref_addr": "0x004DA018"
+  },
+  "Event_ActorToLocationProximity": {
+    "string_addr": "0x004D8B78",
+    "func_addr": "0x002BAF68",
+    "ref_addr": "0x004DA020"
+  },
+  "Event_ActorToActorProximity": {
+    "string_addr": "0x004D8B98",
+    "func_addr": "0x002BB2E0",
+    "ref_addr": "0x004DA028"
+  },
+  "Event_ActorInLoadingZone": {
+    "string_addr": "0x004D8BB8",
+    "func_addr": "0x002BC618",
+    "ref_addr": "0x004DA030"
+  },
+  "Event_AiIsFollowing": {
+    "string_addr": "0x004D8BD8",
+    "func_addr": "0x002BB5A8",
+    "ref_addr": "0x004DA038"
+  },
+  "Event_AiIsPassenger": {
+    "string_addr": "0x004D8BF0",
+    "func_addr": "0x002BBCE0",
+    "ref_addr": "0x004DA040"
+  },
+  "Event_AiInVehicle": {
+    "string_addr": "0x004D8C08",
+    "func_addr": "0x002BBF18",
+    "ref_addr": "0x004DA048"
+  },
+  "Event_AiInNamedVehicle": {
+    "string_addr": "0x004D8C20",
+    "func_addr": "0x002BB838",
+    "ref_addr": "0x004DA050"
+  },
+  "Event_AiCommandStatus": {
+    "string_addr": "0x004D8C38",
+    "func_addr": "0x002BBA70",
+    "ref_addr": "0x004DA058"
+  },
+  "Event_AiCommandQueueClear": {
+    "string_addr": "0x004D8C50",
+    "func_addr": "0x002BC150",
+    "ref_addr": "0x004DA060"
+  },
+  "Event_CancelEvent": {
+    "string_addr": "0x004D8C70",
+    "func_addr": "0x002BC400",
+    "ref_addr": "0x004DA068"
+  },
+  "Event_FactionAttitudeChange": {
+    "string_addr": "0x004D8C88",
+    "func_addr": "0x002BC8E8",
+    "ref_addr": "0x004DA070"
+  },
+  "Event_SquadStatus": {
+    "string_addr": "0x004D8CA8",
+    "func_addr": "0x002BCA68",
+    "ref_addr": "0x004DA078"
+  },
+  "Event_OdfHitPointsLessThan": {
+    "string_addr": "0x004D8CC0",
+    "func_addr": "0x002BCEB8",
+    "ref_addr": "0x004DA080"
+  },
+  "Event_OdfSold": {
+    "string_addr": "0x004D8CE0",
+    "func_addr": "0x002BD1D8",
+    "ref_addr": "0x004DA088"
+  },
+  "Event_OdfToActorProximity": {
+    "string_addr": "0x004D8CF0",
+    "func_addr": "0x002BD478",
+    "ref_addr": "0x004DA090"
+  },
+  "Event_OdfToVectorProximity": {
+    "string_addr": "0x004D8D10",
+    "func_addr": "0x002BD6A8",
+    "ref_addr": "0x004DA098"
+  },
+  "Event_PlayerEnteredDangerZone": {
+    "string_addr": "0x004D8D30",
+    "func_addr": "0x002BD9B8",
+    "ref_addr": "0x004DA0A0"
+  },
+  "Event_PlayerEquipsNamedItem": {
+    "string_addr": "0x004D8D50",
+    "func_addr": "0x002BDD70",
+    "ref_addr": "0x004DA0A8"
+  },
+  "Event_PlayerEquipsOdfItem": {
+    "string_addr": "0x004D8D70",
+    "func_addr": "0x002BDFA8",
+    "ref_addr": "0x004DA0B0"
+  },
+  "Event_PlayerUsesWeapon": {
+    "string_addr": "0x004D8D90",
+    "func_addr": "0x002BE1E8",
+    "ref_addr": "0x004DA0B8"
+  },
+  "Event_PlayerIsBeingFilmed": {
+    "string_addr": "0x004D8DA8",
+    "func_addr": "0x002BE448",
+    "ref_addr": "0x004DA0C0"
+  },
+  "Event_RelativeTimer": {
+    "string_addr": "0x004D8DC8",
+    "func_addr": "0x002BE668",
+    "ref_addr": "0x004DA0C8"
+  },
+  "Event_SkipCinematic": {
+    "string_addr": "0x004D8DE0",
+    "func_addr": "0x002BE868",
+    "ref_addr": "0x004DA0D0"
+  },
+  "Event_ActorUsed": {
+    "string_addr": "0x004D8DF8",
+    "func_addr": "0x002BEA90",
+    "ref_addr": "0x004DA0D8"
+  },
+  "Event_ActorVerified": {
+    "string_addr": "0x004D8E08",
+    "func_addr": "0x002BEC70",
+    "ref_addr": "0x004DA0E0"
+  },
+  "Event_AlarmUsed": {
+    "string_addr": "0x004D8E20",
+    "func_addr": "0x002BEE88",
+    "ref_addr": "0x004DA0E8"
+  },
+  "Event_ActorCaptured": {
+    "string_addr": "0x004D8E30",
+    "func_addr": "0x002BF0A0",
+    "ref_addr": "0x004DA0F0"
+  },
+  "Event_ExtractionHelicopterDestroyed": {
+    "string_addr": "0x004D8E48",
+    "func_addr": "0x002BF2D8",
+    "ref_addr": "0x004DA0F8"
+  },
+  "Player_SetCurrentWeapon": {
+    "string_addr": "0x004D8E70",
+    "func_addr": "0x002BF4F0",
+    "ref_addr": "0x004DA100"
+  },
+  "Player_SetWeaponEnabled": {
+    "string_addr": "0x004D8E88",
+    "func_addr": "0x002BF6E0",
+    "ref_addr": "0x004DA108"
+  },
+  "Player_RefillWeaponAmmo": {
+    "string_addr": "0x004D8EA0",
+    "func_addr": "0x002BF930",
+    "ref_addr": "0x004DA110"
+  },
+  "Player_GetMoney": {
+    "string_addr": "0x004D8EB8",
+    "func_addr": "0x002BFBB8",
+    "ref_addr": "0x004DA118"
+  },
+  "Player_SetMoney": {
+    "string_addr": "0x004D8EC8",
+    "func_addr": "0x002BFDB8",
+    "ref_addr": "0x004DA120"
+  },
+  "Player_AdjustMoney": {
+    "string_addr": "0x004D8ED8",
+    "func_addr": "0x002BFED8",
+    "ref_addr": "0x004DA128"
+  },
+  "Player_ShowMoney": {
+    "string_addr": "0x004D8EF0",
+    "func_addr": "0x002C0050",
+    "ref_addr": "0x004DA130"
+  },
+  "Player_DisableControl": {
+    "string_addr": "0x004D8F08",
+    "func_addr": "0x002C0310",
+    "ref_addr": "0x004DA138"
+  },
+  "Player_EnableControl": {
+    "string_addr": "0x004D8F20",
+    "func_addr": "0x002C0428",
+    "ref_addr": "0x004DA140"
+  },
+  "Player_EnableUseOnlyControl": {
+    "string_addr": "0x004D8F38",
+    "func_addr": "0x002C0568",
+    "ref_addr": "0x004DA148"
+  },
+  "Player_SpecialAttach": {
+    "string_addr": "0x004D8F58",
+    "func_addr": "0x002C06D0",
+    "ref_addr": "0x004DA150"
+  },
+  "Player_SpecialDetach": {
+    "string_addr": "0x004D8F70",
+    "func_addr": "0x002C07E8",
+    "ref_addr": "0x004DA158"
+  },
+  "Player_SetHumanModel": {
+    "string_addr": "0x004D8F88",
+    "func_addr": "0x002F7B60",
+    "ref_addr": "0x004DA160"
+  },
+  "Cinematic_SignalStart": {
+    "string_addr": "0x004D8FA0",
+    "func_addr": "0x002F7AA0",
+    "ref_addr": "0x004DA168"
+  },
+  "Cinematic_SignalEnd": {
+    "string_addr": "0x004D8FB8",
+    "func_addr": "0x002F7C68",
+    "ref_addr": "0x004DA170"
+  },
+  "Cinematic_FadeIn": {
+    "string_addr": "0x004D8FD0",
+    "func_addr": "0x002F7D70",
+    "ref_addr": "0x004DA178"
+  },
+  "Cinematic_FadeOut": {
+    "string_addr": "0x004D8FE8",
+    "func_addr": "0x002C0998",
+    "ref_addr": "0x004DA180"
+  },
+  "Cinematic_Placeholder": {
+    "string_addr": "0x004D9000",
+    "func_addr": "0x002C0BA8",
+    "ref_addr": "0x004DA188"
+  },
+  "Cinematic_BeginSequence": {
+    "string_addr": "0x004D9018",
+    "func_addr": "0x002C0DB8",
+    "ref_addr": "0x004DA190"
+  },
+  "Cinematic_DeinitSequence": {
+    "string_addr": "0x004D9030",
+    "func_addr": "0x002C1078",
+    "ref_addr": "0x004DA198"
+  },
+  "Building_AlarmSetAlarmActive": {
+    "string_addr": "0x004D9050",
+    "func_addr": "0x002F7E70",
+    "ref_addr": "0x004DA1A0"
+  },
+  "Building_SpawnerEnable": {
+    "string_addr": "0x004D9070",
+    "func_addr": "0x002C1220",
+    "ref_addr": "0x004DA1A8"
+  },
+  "Building_SpawnerSetSpawnType": {
+    "string_addr": "0x004D9088",
+    "func_addr": "0x002C1420",
+    "ref_addr": "0x004DA1B0"
+  },
+  "Building_SpawnerSetAlertState": {
+    "string_addr": "0x004D90A8",
+    "func_addr": "0x002C15D8",
+    "ref_addr": "0x004DA1B8"
+  },
+  "Building_SpawnerReset": {
+    "string_addr": "0x004D90C8",
+    "func_addr": "0x002C1838",
+    "ref_addr": "0x004DA1C0"
+  },
+  "Building_SiloPrepare": {
+    "string_addr": "0x004D90E0",
+    "func_addr": "0x002C1A18",
+    "ref_addr": "0x004DA1C8"
+  },
+  "Building_SiloLaunch": {
+    "string_addr": "0x004D90F8",
+    "func_addr": "0x002F7F68",
+    "ref_addr": "0x004DA1D0"
+  },
+  "Utility_GetPlayerNationality": {
+    "string_addr": "0x004D9110",
+    "func_addr": "0x002C1BB8",
+    "ref_addr": "0x004DA1D8"
+  },
+  "Utility_CloseThisScript": {
+    "string_addr": "0x004D9130",
+    "func_addr": "0x002C1CA8",
+    "ref_addr": "0x004DA1E0"
+  },
+  "Utility_CompareActorToOdf": {
+    "string_addr": "0x004D9148",
+    "func_addr": "0x002C1E60",
+    "ref_addr": "0x004DA1E8"
+  },
+  "Utility_DoesActorExist": {
+    "string_addr": "0x004D9168",
+    "func_addr": "0x002C1FD8",
+    "ref_addr": "0x004DA1F0"
+  },
+  "Utility_GetActor": {
+    "string_addr": "0x004D9180",
+    "func_addr": "0x002C21C0",
+    "ref_addr": "0x004DA1F8"
+  },
+  "Utility_GetActorAsInt": {
+    "string_addr": "0x004D9198",
+    "func_addr": "0x002C2330",
+    "ref_addr": "0x004DA200"
+  },
+  "Utility_GetActorsVehicle": {
+    "string_addr": "0x004D91B0",
+    "func_addr": "0x002F8040",
+    "ref_addr": "0x004DA208"
+  },
+  "Utility_GetActorsInRange": {
+    "string_addr": "0x004D91D0",
+    "func_addr": "0x002C2448",
+    "ref_addr": "0x004DA210"
+  },
+  "Utility_GetDistanceBetweenVectors": {
+    "string_addr": "0x004D91F0",
+    "func_addr": "0x002C29D8",
+    "ref_addr": "0x004DA218"
+  },
+  "Utility_GetDistanceBetweenActors": {
+    "string_addr": "0x004D9218",
+    "func_addr": "0x002C3288",
+    "ref_addr": "0x004DA220"
+  },
+  "Utility_GetTerrainHeightAtXZ": {
+    "string_addr": "0x004D9240",
+    "func_addr": "0x002C30B0",
+    "ref_addr": "0x004DA228"
+  },
+  "Utility_GetPointBehindPlayer": {
+    "string_addr": "0x004D9260",
+    "func_addr": "0x002C36E0",
+    "ref_addr": "0x004DA230"
+  },
+  "Utility_GetPointWithinSporeRadius": {
+    "string_addr": "0x004D9280",
+    "func_addr": "0x002C3868",
+    "ref_addr": "0x004DA238"
+  },
+  "Utility_GetRandomFloat": {
+    "string_addr": "0x004D92A8",
+    "func_addr": "0x002C3C48",
+    "ref_addr": "0x004DA240"
+  },
+  "Utility_MathFloor": {
+    "string_addr": "0x004D92C0",
+    "func_addr": "0x002C4060",
+    "ref_addr": "0x004DA248"
+  },
+  "Utility_MathModulus": {
+    "string_addr": "0x004D92D8",
+    "func_addr": "0x002F8148",
+    "ref_addr": "0x004DA250"
+  },
+  "Utility_ReadLevelFile": {
+    "string_addr": "0x004D92F0",
+    "func_addr": "0x002F81B8",
+    "ref_addr": "0x004DA258"
+  },
+  "Utility_SuspendLoading": {
+    "string_addr": "0x004D9308",
+    "func_addr": "0x002C4570",
+    "ref_addr": "0x004DA260"
+  },
+  "Utility_ResumeLoading": {
+    "string_addr": "0x004D9320",
+    "func_addr": "0x002F8288",
+    "ref_addr": "0x004DA268"
+  },
+  "Utility_ResetToBaseLayerOnly": {
+    "string_addr": "0x004D9338",
+    "func_addr": "0x002F8388",
+    "ref_addr": "0x004DA270"
+  },
+  "Utility_ResetToShell": {
+    "string_addr": "0x004D9358",
+    "func_addr": "0x002C46C8",
+    "ref_addr": "0x004DA278"
+  },
+  "Utility_LoadUtilityScript": {
+    "string_addr": "0x004D9370",
+    "func_addr": "0x002C4850",
+    "ref_addr": "0x004DA280"
+  },
+  "Utility_PlayMovie": {
+    "string_addr": "0x004D9390",
+    "func_addr": "0x002C41D8",
+    "ref_addr": "0x004DA288"
+  },
+  "Utility_GetStringById": {
+    "string_addr": "0x004D93A8",
+    "func_addr": "0x002C4368",
+    "ref_addr": "0x004DA290"
+  },
+  "Utility_SetTimeScale": {
+    "string_addr": "0x004D93C0",
+    "func_addr": "0x002C4CB8",
+    "ref_addr": "0x004DA298"
+  },
+  "Utility_SetDamageTableValue": {
+    "string_addr": "0x004D93D8",
+    "func_addr": "0x002C4E80",
+    "ref_addr": "0x004DA2A0"
+  },
+  "Utility_SecondsToClock": {
+    "string_addr": "0x004D93F8",
+    "func_addr": "0x002C4FE8",
+    "ref_addr": "0x004DA2A8"
+  },
+  "Utility_FormatCurrency": {
+    "string_addr": "0x004D9410",
+    "func_addr": "0x002C51C8",
+    "ref_addr": "0x004DA2B0"
+  },
+  "Utility_StringFormat": {
+    "string_addr": "0x004D9428",
+    "func_addr": "0x002C5408",
+    "ref_addr": "0x004DA2B8"
+  },
+  "Utility_StringRep": {
+    "string_addr": "0x004D9440",
+    "func_addr": "0x002CAD80",
+    "ref_addr": "0x004DA2C0"
+  },
+  "Utility_SetSporeAllowHibernation": {
+    "string_addr": "0x004D9458",
+    "func_addr": "0x002F8D18",
+    "ref_addr": "0x004DA2C8"
+  },
+  "Utility_GetDistantSpawnPointOnPath": {
+    "string_addr": "0x004D9480",
+    "func_addr": "0x002F80B0",
+    "ref_addr": "0x004DA2D0"
+  },
+  "Utility_SetNextLoadScreen": {
+    "string_addr": "0x004D94A8",
+    "func_addr": "0x002C2700",
+    "ref_addr": "0x004DA2D8"
+  },
+  "Utility_RunLuaScript": {
+    "string_addr": "0x004D94C8",
+    "func_addr": "0x002C3588",
+    "ref_addr": "0x004DA2E0"
+  },
+  "Utility_MessageBox": {
+    "string_addr": "0x004D94E0",
+    "func_addr": "0x002C4980",
+    "ref_addr": "0x004DA2E8"
+  },
+  "Utility_QuestionBox": {
+    "string_addr": "0x004D94F8",
+    "func_addr": "0x002C5550",
+    "ref_addr": "0x004DA2F0"
+  },
+  "Utility_OpenBriefingDataSets": {
+    "string_addr": "0x004D9510",
+    "func_addr": "0x002C57C8",
+    "ref_addr": "0x004DA2F8"
+  },
+  "Utility_CloseBriefingDataSets": {
+    "string_addr": "0x004D9530",
+    "func_addr": "0x002F8480",
+    "ref_addr": "0x004DA300"
+  },
+  "Utility_WriteStringToScribbleMemory": {
+    "string_addr": "0x004D9550",
+    "func_addr": "0x002F8568",
+    "ref_addr": "0x004DA308"
+  },
+  "Utility_WriteNumberToScribbleMemory": {
+    "string_addr": "0x004D9578",
+    "func_addr": "0x002C5AA8",
+    "ref_addr": "0x004DA310"
+  },
+  "Utility_ReadStringFromScribbleMemory": {
+    "string_addr": "0x004D95A0",
+    "func_addr": "0x002C5C30",
+    "ref_addr": "0x004DA318"
+  },
+  "Utility_ReadNumberFromScribbleMemory": {
+    "string_addr": "0x004D95C8",
+    "func_addr": "0x002C5DB8",
+    "ref_addr": "0x004DA320"
+  },
+  "Utility_EraseValueFromScribbleMemory": {
+    "string_addr": "0x004D95F0",
+    "func_addr": "0x002C5F20",
+    "ref_addr": "0x004DA328"
+  },
+  "Utility_SetCurrentMissionData": {
+    "string_addr": "0x004D9618",
+    "func_addr": "0x002C6098",
+    "ref_addr": "0x004DA330"
+  },
+  "Utility_ReadMissionData": {
+    "string_addr": "0x004D9638",
+    "func_addr": "0x002C61E8",
+    "ref_addr": "0x004DA338"
+  },
+  "Utility_WriteMissionData": {
+    "string_addr": "0x004D9650",
+    "func_addr": "0x002C6328",
+    "ref_addr": "0x004DA340"
+  },
+  "Utility_SavePlayerData": {
+    "string_addr": "0x004D9670",
+    "func_addr": "0x002C67E0",
+    "ref_addr": "0x004DA348"
+  },
+  "Utility_LoadPlayerData": {
+    "string_addr": "0x004D9688",
+    "func_addr": "0x002F8650",
+    "ref_addr": "0x004DA350"
+  },
+  "Utility_StartAsyncCaching": {
+    "string_addr": "0x004D96A0",
+    "func_addr": "0x002F8738",
+    "ref_addr": "0x004DA358"
+  },
+  "Briefing_Init": {
+    "string_addr": "0x004D96C0",
+    "func_addr": "0x002F8DA8",
+    "ref_addr": "0x004DA360"
+  },
+  "Briefing_Deinit": {
+    "string_addr": "0x004D96D0",
+    "func_addr": "0x002C6FC8",
+    "ref_addr": "0x004DA368"
+  },
+  "Briefing_AddActor": {
+    "string_addr": "0x004D96E0",
+    "func_addr": "0x002F8820",
+    "ref_addr": "0x004DA370"
+  },
+  "Briefing_GetSceneActor": {
+    "string_addr": "0x004D96F8",
+    "func_addr": "0x002C7168",
+    "ref_addr": "0x004DA378"
+  },
+  "Briefing_RestoreOldLightSettings": {
+    "string_addr": "0x004D9710",
+    "func_addr": "0x002C7318",
+    "ref_addr": "0x004DA380"
+  },
+  "Briefing_SetAmbientSoundCue": {
+    "string_addr": "0x004D9738",
+    "func_addr": "0x002F8908",
+    "ref_addr": "0x004DA388"
+  },
+  "Briefing_SetAdditionalSoundBank": {
+    "string_addr": "0x004D9758",
+    "func_addr": "0x002C7430",
+    "ref_addr": "0x004DA390"
+  },
+  "Briefing_UnloadAdditionalSoundBank": {
+    "string_addr": "0x004D9778",
+    "func_addr": "0x002C75F0",
+    "ref_addr": "0x004DA398"
+  },
+  "Briefing_EnableWeaponRendering": {
+    "string_addr": "0x004D97A0",
+    "func_addr": "0x002F89F0",
+    "ref_addr": "0x004DA3A0"
+  },
+  "Briefing_SpecialDisplayRadar": {
+    "string_addr": "0x004D97C0",
+    "func_addr": "0x002C7730",
+    "ref_addr": "0x004DA3A8"
+  },
+  "Desktop_BeginBossProfile": {
+    "string_addr": "0x004D97E0",
+    "func_addr": "0x002C7860",
+    "ref_addr": "0x004DA3B0"
+  },
+  "Desktop_BeginDeathSequence": {
+    "string_addr": "0x004D9800",
+    "func_addr": "0x002C7990",
+    "ref_addr": "0x004DA3B8"
+  },
+  "Desktop_BeginLoseSequence": {
+    "string_addr": "0x004D9820",
+    "func_addr": "0x002C7BB0",
+    "ref_addr": "0x004DA3C0"
+  },
+  "Desktop_BeginWinSequence": {
+    "string_addr": "0x004D9840",
+    "func_addr": "0x002C7CE8",
+    "ref_addr": "0x004DA3C8"
+  },
+  "Desktop_BeginVerify": {
+    "string_addr": "0x004D9860",
+    "func_addr": "0x002C8000",
+    "ref_addr": "0x004DA3D0"
+  },
+  "Desktop_OverrideDeathSequence": {
+    "string_addr": "0x004D9878",
+    "func_addr": "0x002C82B8",
+    "ref_addr": "0x004DA3D8"
+  },
+  "Region_EnableRender": {
+    "string_addr": "0x004D9898",
+    "func_addr": "0x002C86A8",
+    "ref_addr": "0x004DA3E0"
+  },
+  "Region_GetPosition": {
+    "string_addr": "0x004D98B0",
+    "func_addr": "0x002C87C0",
+    "ref_addr": "0x004DA3E8"
+  },
+  "Boundary_Enable": {
+    "string_addr": "0x004D98C8",
+    "func_addr": "0x002C8928",
+    "ref_addr": "0x004DA3F0"
+  },
+  "Boundary_RadiationSetDamageRate": {
+    "string_addr": "0x004D98D8",
+    "func_addr": "0x002C8AC0",
+    "ref_addr": "0x004DA3F8"
+  },
+  "Boundary_GetEnclosingBoundaries": {
+    "string_addr": "0x004D98F8",
+    "func_addr": "0x002C8C60",
+    "ref_addr": "0x004DA400"
+  },
+  "Boundary_GetProperties": {
+    "string_addr": "0x004D9918",
+    "func_addr": "0x002C8E50",
+    "ref_addr": "0x004DA408"
+  },
+  "Renderer_SetMotionBlur": {
+    "string_addr": "0x004D9930",
+    "func_addr": "0x002C9018",
+    "ref_addr": "0x004DA410"
+  },
+  "Renderer_SetAmbientLight": {
+    "string_addr": "0x004D9948",
+    "func_addr": "0x002C92C0",
+    "ref_addr": "0x004DA418"
+  },
+  "RedTerrain_EnableRendering": {
+    "string_addr": "0x004D9968",
+    "func_addr": "0x002C9418",
+    "ref_addr": "0x004DA420"
+  },
+  "Location_GetPosition": {
+    "string_addr": "0x004D9988",
+    "func_addr": "0x002C9670",
+    "ref_addr": "0x004DA428"
+  },
+  "Location_GetYaw": {
+    "string_addr": "0x004D99A0",
+    "func_addr": "0x002C97A0",
+    "ref_addr": "0x004DA430"
+  },
+  "Global_SetValue": {
+    "string_addr": "0x004D99B0",
+    "func_addr": "0x002C99A0",
+    "ref_addr": "0x004DA438"
+  },
+  "Global_GetValue": {
+    "string_addr": "0x004D99C0",
+    "func_addr": "0x002C9B20",
+    "ref_addr": "0x004DA440"
+  },
+  "Challenge_WriteStatHeader": {
+    "string_addr": "0x004D99D0",
+    "func_addr": "0x002C9DD8",
+    "ref_addr": "0x004DA448"
+  },
+  "Challenge_WriteStatInteger": {
+    "string_addr": "0x004D99F0",
+    "func_addr": "0x002CA030",
+    "ref_addr": "0x004DA450"
+  },
+  "Challenge_WriteStatFloat": {
+    "string_addr": "0x004D9A10",
+    "func_addr": "0x002CA1A8",
+    "ref_addr": "0x004DA458"
+  },
+  "Challenge_WriteStatTime": {
+    "string_addr": "0x004D9A30",
+    "func_addr": "0x002CA3F0",
+    "ref_addr": "0x004DA460"
+  },
+  "Challenge_ReadStatInteger": {
+    "string_addr": "0x004D9A48",
+    "func_addr": "0x002CA628",
+    "ref_addr": "0x004DA468"
+  },
+  "Challenge_ReadStatFloat": {
+    "string_addr": "0x004D9A68",
+    "func_addr": "0x002CAA10",
+    "ref_addr": "0x004DA470"
+  },
+  "Unlockable_AceOfClubsMissionJustWon": {
+    "string_addr": "0x004D9A80",
+    "func_addr": "0x002CA818",
+    "ref_addr": "0x004DA478"
+  },
+  "Unlockable_AceOfDiamondsMissionJustWon": {
+    "string_addr": "0x004D9AA8",
+    "func_addr": "0x002F8AD8",
+    "ref_addr": "0x004DA480"
+  },
+  "Unlockable_AceOfHeartsMissionJustWon": {
+    "string_addr": "0x004D9AD0",
+    "func_addr": "0x002F8B08",
+    "ref_addr": "0x004DA488"
+  },
+  "RESPONSE_INVALID": {
+    "string_addr": "0x004ED1D0",
+    "func_addr": "0x0044495F",
+    "ref_addr": "0x004ED23C"
+  },
+  "RESPONSE_MAX_ID": {
+    "string_addr": "0x004ED228",
+    "func_addr": "0x003EF308",
+    "ref_addr": "0x004ED25C"
+  }
+}
